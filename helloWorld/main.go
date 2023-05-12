@@ -1,4 +1,4 @@
-package main
+package main // Executable package !
 
 import "fmt"
 
